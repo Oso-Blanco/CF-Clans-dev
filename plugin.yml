@@ -1,0 +1,7 @@
+name: zest
+version: 1.0
+author: Oso_Blanco
+main: oso_blanco.Main
+commands:
+  clan:
+    description: Clan Plugin
